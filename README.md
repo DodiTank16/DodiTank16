@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dodi Tank</h1>
 
-[![Website](https://img.shields.io/badge/-akshit--zatakia.github.io-red)](https://akshit-zatakia.github.io)
+[![Website](https://img.shields.io/badge/-akshit--zatakia.vercel.app-red)](https://tankdodi.vercel.app)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
