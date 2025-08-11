@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doditank16" alt="doditank16" /></a> </p>
 
-- 🔭 I’m currently working on **Advance Todo Application**
+- 🌱 I’m currently learning **Web 3**
 
-- 🌱 I’m currently learning **Typescript and Next JS**
-
-- 💬 Ask me about **React**
+- 💬 I’m currently developing projects in ReactJS and NodeJS.
 
 - 📫 How to reach me **tankdodi@gmail.com**
 
