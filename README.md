@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dodi Tank</h1>
-
-[![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doditank16&label=Profile%20views&color=0e75b6&style=flat" alt="doditank16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doditank16" alt="doditank16" /></a> </p>
