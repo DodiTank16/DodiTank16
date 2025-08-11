@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dodi Tank [![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)</h1>
+<h1 align="center">Hi 👋, I'm Dodi Tank</h1> [![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
 
 [![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
 
