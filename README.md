@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web 3**
 
-- 💬 I’m currently developing projects in ReactJS and NodeJS.
+- 💬 I’m currently developing projects in **ReactJS** and **NodeJS**.
 
 - 📫 How to reach me **tankdodi@gmail.com**
 
