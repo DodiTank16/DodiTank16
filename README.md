@@ -4,10 +4,6 @@
 [![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doditank16&label=Profile%20views&color=0e75b6&style=flat" alt="doditank16" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doditank16&theme=github_dark" alt="Profile Summary" />
-</p>
-
 - 🌱 I’m currently learning **Web 3**
 
 - 💬 I’m currently developing projects in **ReactJS** and **NodeJS**.
