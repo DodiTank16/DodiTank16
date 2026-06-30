@@ -4,9 +4,11 @@
 [![Website](https://img.shields.io/badge/tankdodi.vercel.app-red)](https://tankdodi.vercel.app)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doditank16&label=Profile%20views&color=0e75b6&style=flat" alt="doditank16" /> </p>
 
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I'm currently exploring ***AI-assisted development, Generative AI, AI Agents, and advanced React ecosystem.***
 
-- 💬 I’m currently developing projects in **ReactJS** and **NodeJS**.
+- 💼 I'm currently building ***scalable React.js and Next.js applications, working with Micro Frontend Architecture, Redux Toolkit, Tailwind CSS, Supabase, and Node.js.***
+  
+- 🚀 I enjoy improving ***frontend performance, developer experience, and building production-ready web applications.***
 
 - 📫 How to reach me **tankdodi@gmail.com**
 
